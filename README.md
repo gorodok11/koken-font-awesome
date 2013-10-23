@@ -1,7 +1,7 @@
 Font Awesome plugin for Koken
 =================================
 
-This [Koken](http://koken.me) plugin allows you to quickly and easily integrate Font Awesome (http://fortawesome.github.io/Font-Awesome) into your themes.
+This [Koken](http://koken.me) plugin allows you to quickly and easily integrate Font Awesome (http://fontawesome.io/) into your themes.
 
 Requirements
 ------------
@@ -20,4 +20,11 @@ Installation
 
 2. Sign in to Koken, then visit the Settings > Plugins page to activate the plugin.
 
-3. You're done, revel in all that is font awesome. Visit http://fortawesome.github.io/Font-Awesome/get-started to get started using it.
+3. You're done, revel in all that is font awesome. Visit http://fontawesome.io/get-started/ to get started using it.
+
+Changelog
+---------
+
+1.1 - [UPDATED] Updated Font Awesome files to v4.0.0
+
+1.0 - Initial release
