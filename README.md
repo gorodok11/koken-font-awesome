@@ -25,6 +25,8 @@ Installation
 Changelog
 ---------
 
+1.2 - [UPDATED] Updated Font Awesome files to v4.1.0
+
 1.1 - [UPDATED] Updated Font Awesome files to v4.0.0
 
 1.0 - Initial release
